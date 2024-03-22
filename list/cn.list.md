@@ -11,7 +11,7 @@
 | 5 | [BD]cctv12[ipv6] | epg.pw | <https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408e6b420593aecb92cc36de628fe.m3u8> |
 | 6 | [BD]cctv13 | epg.pw | <https://epg.pw/stream/864260dae46a78acb1e8ed369525d1c3b8bc16aa69c8789aea0bccf831b6ac40.m3u8> |
 | 7 | [BD]cctv14[ipv6] | epg.pw | <https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8> |
-| 8 | [BD]cctv15[ipv6] | epg.pw | <https://epg.pw/stream/80ca73f2c897789d5b01da2ef9190e08f5f87741309ce017c6e20a99b3b20ef1.m3u8> |
+| 8 | [BD]cctv15音乐 | epg.pw | <https://epg.pw/stream/fdf36c9def13ba84a1de7959b6b01b202971a01af35a348f1caf9c7a3690d00b.m3u8> |
 | 9 | [BD]cctv16 | epg.pw | <https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8> |
 | 10 | [HD]cctv17 | epg.pw | <https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8> |
 | 11 | [BD]cctv2 | epg.pw | <https://epg.pw/stream/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8> |
@@ -29,7 +29,7 @@
 | 23 | [BD]cctv-7国防军事 | epg.pw | <https://epg.pw/stream/bff09fb8530cddf2cf5b82f9084db24a99217df060033401014f88c3a923fc12.m3u8> |
 | 24 | [BD]cctv央视台球 | epg.pw | <https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv> |
 | 25 | [BD]cctv女性时尚 | epg.pw | <https://epg.pw/stream/668647f1d573b7ae39336af42a3122b29d4e020464db69803bbdc842c022329d.m3u8> |
-| 26 | [BD]cctv怀旧剧场[ipv6] | epg.pw | <https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8> |
+| 26 | [BD]cctv怀旧剧场 | epg.pw | <https://epg.pw/stream/dddd811534ab46713b3fc0ee6aac6faf769003bb014a3a391e5c4bb0f6516de3.ctv> |
 | 27 | [BD]cctv第一剧场[ipv6] | epg.pw | <https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8> |
 | 28 | [BD]cctv卫生健康 | epg.pw | <https://epg.pw/stream/2a5e0bc5d7b5a41f8e9e60a28093aa99953f26e4a68712e171d5b9dfcb9362c4.ctv> |
 | 29 | [BD]cctv电视指南[ipv6] | epg.pw | <https://epg.pw/stream/6bda2172dc4991857430ab36800e9695469eb713de9d17c5dca29250dc076be8.m3u8> |
@@ -173,7 +173,7 @@
 | 167 | [BD]宿州新闻综合 | epg.pw | <https://epg.pw/stream/241171224fda0ca651365ac3e52e9762b114e9fa2176bd37c17a85eba975b6c8.m3u8> |
 | 168 | [SD]富阳新闻综合 | epg.pw | <https://epg.pw/stream/184765df59a5f2ec47a324d683f98b89feb48a64bfeafeef5702b2aa982c051f.m3u8> |
 | 169 | [SD]宁夏卫视[ipv6] | epg.pw | <https://epg.pw/stream/36d06a642456bafe7043aaed3e01dd7557dba0fb2072c40a91ae029700665b25.m3u8> |
-| 170 | [SD]山东教育[ipv6] | epg.pw | <https://epg.pw/stream/67911f1285034e2069916410b1758afbe35aa5930be8eb67a09c995cd5e1243e.m3u8> |
+| 170 | [VGA]山东教育[ipv6] | epg.pw | <https://epg.pw/stream/ef6f085eb305d8ac9cbfe8900b1d25a5a889df1745a561fdee1a0d2d11ac8add.m3u8> |
 | 171 | [SD]山东教育卫视[ipv6] | epg.pw | <https://epg.pw/stream/72b20fba447aa575919d1ae98e94032dbbb7e71c32bea0db7c127753cb208441.m3u8> |
 | 172 | [BD]山东卫视 | epg.pw | <https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8> |
 | 173 | [HD]山西影视 | epg.pw | <https://epg.pw/stream/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8> |
@@ -323,7 +323,7 @@
 | 317 | [BD]湖南教育台 | epg.pw | <https://epg.pw/stream/8eaa860edc46f79ad63763a2531b71738fe72fcb35f10148c2b86ab4bf129770.m3u8> |
 | 318 | [VGA]湖南爱晚 | epg.pw | <https://epg.pw/stream/883c914486770e67a9c9f2333d5a9d4a2bd3eed69af1ae129a4bf2973f0ac911.ctv> |
 | 319 | [VGA]湖南经视 | epg.pw | <https://epg.pw/stream/083dd83573e39b2be5781d200c5bf2e046f39104e90d3bbca658d5a40d53d5f0.ctv> |
-| 320 | [BD]湖南卫视[ipv6] | epg.pw | <https://epg.pw/stream/ceb0350bf607e7de789758adb0ee3a1e5e0de91b7de8c1a05f86e2dd6f4916ab.m3u8> |
+| 320 | [VGA]湖南卫视 | epg.pw | <https://epg.pw/stream/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8> |
 | 321 | [VGA]湖南都市 | epg.pw | <https://epg.pw/stream/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.ctv> |
 | 322 | [VGA]湖南电影 | epg.pw | <https://epg.pw/stream/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.ctv> |
 | 323 | [VGA]湖南电视剧 | epg.pw | <https://epg.pw/stream/b120df2d0fb5b5673337708c5554944f75b32425d7b685d47b53a5305dbee9a7.ctv> |
@@ -367,7 +367,7 @@
 | 361 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 362 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
 | 363 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
-| 364 | [SD]置业频道[ipv6] | epg.pw | <https://epg.pw/stream/7c484fd904a4276d7f8e607ac3271a34248a3629a6db886f7c144a1183524e83.m3u8> |
+| 364 | [SD]置业频道 | epg.pw | <https://epg.pw/stream/6427681e3c51e31a709ba1891c513932eec0b96306362cdbf578a857c346af86.m3u8> |
 | 365 | [SD]老妖电影 | epg.pw | <https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv> |
 | 366 | [BD]聚鲨环球精选 | epg.pw | <https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv> |
 | 367 | [VGA]自贡公共 | epg.pw | <https://epg.pw/stream/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv> |
@@ -419,13 +419,13 @@
 | 413 | [SD]陕西六套 | epg.pw | <https://epg.pw/stream/c125cbb2a0628901f7975a29c0dc9eba78c56d9026b008791be39a844ddde5f1.m3u8> |
 | 414 | [HD]陕西影视频道[ipv6] | epg.pw | <https://epg.pw/stream/f3cdf1ddc40c4b8cd8aa92f65945ddb3254a343538aeb01352dee51896b6af1e.m3u8> |
 | 415 | [BD]陕西二套[ipv6] | epg.pw | <https://epg.pw/stream/9a48327a328bf09def0788dad3314ddaf272f2e80a6914928c05b5191d1aff51.m3u8> |
-| 416 | [SD]陕西公共频道[ipv6] | epg.pw | <https://epg.pw/stream/2002749dd41e07964f7b751bcba54af9db4f6719bc378d0ba6ebb2679f19141b.m3u8> |
+| 416 | [SD]陕西公共[ipv6] | epg.pw | <https://epg.pw/stream/ade712a234bfc10daf07002f83b11cfb44ec3e8c885cb7567b322dbec3e0e4ed.m3u8> |
 | 417 | [SD]陕西四套 | epg.pw | <https://epg.pw/stream/fa6efa87bbba360739569897295e1af744919e841c8ce806821a46ddd59dcd2a.m3u8> |
 | 418 | [BD]陕西影视 | epg.pw | <https://epg.pw/stream/a0dc949f3e65da9ebc2c1d93a1e2fb33cb21e3b4a3c41f2632dcb77f1a80b608.ctv> |
 | 419 | [BD]陕西新闻资讯[ipv6] | epg.pw | <https://epg.pw/stream/fa7439d84d8a9e3a9eca9d6053e963a0306dfa3f593e2f978b228bb96b06ee29.m3u8> |
 | 420 | [HD]陕西生活频道[ipv6] | epg.pw | <https://epg.pw/stream/2c12e28e6ba573eac012df36133e12fe61903c6c7e5f145618471794e7adf5e1.m3u8> |
 | 421 | [SD]陕西卫视[ipv6] | epg.pw | <https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8> |
-| 422 | [SD]陕西西部电影[ipv6] | epg.pw | <https://epg.pw/stream/318a64a14fc9f1b992a21c72c71cfd4a89394cc5c5223234aa15277077764e2b.m3u8> |
+| 422 | [HD]陕西西部电影[ipv6] | epg.pw | <https://epg.pw/stream/89302a48c6f6873757539ee8a9ae69975e8e58609b000b205af6aa35b59e9240.m3u8> |
 | 423 | [SD]陕西体育休闲[ipv6] | epg.pw | <https://epg.pw/stream/222ab91506e0310c79e009d1ca30d69ec87ef48007371488bf3e2fad0f13af21.m3u8> |
 | 424 | [HD]云南少儿 | epg.pw | <https://epg.pw/stream/0408f1b5711a3f586ae7a6d8bd809950795878c727c614b9822ccb4ba1ccbfa1.m3u8> |
 | 425 | [HD]云南康旅 | epg.pw | <https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8> |
@@ -457,4 +457,4 @@
 | 451 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 452 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Mar 22 2024 14:15:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 16:21:11 GMT+0000 (Coordinated Universal Time)**
