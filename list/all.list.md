@@ -1268,7 +1268,7 @@
 | 1262 | [SD]niaga tv | epg.pw | <https://epg.pw/stream/0a197311bbf4e06f563a18dab186f955a7d9749217d4968af1e847e3bd31e9cf.m3u8> |
 | 1263 | [HD]nick jr | epg.pw | <https://epg.pw/stream/4da9150a80781c3c18445f1a14b9293701cdbe65a6b4f0a7fe2d4bf72ae04a3f.ctv> |
 | 1264 | [HD]nick music | epg.pw | <https://epg.pw/stream/ab348ff58bb9b72b55a63c31129fc7f39010ab1f1c662eba7da6c832c50d4164.m3u8> |
-| 1265 | [HD]nickelodeon junior | epg.pw | <https://epg.pw/stream/785ae0acc06faed10a1753ec15162376f83879568a1030f2ea189a00b8330ed7.ctv> |
+| 1265 | [VGA]nickelodeon | epg.pw | <https://epg.pw/stream/1388b82fc45bec9bbef3f80e3f9b1559a2c91aeeb664c0f1d74ecc66ba42a876.ctv> |
 | 1266 | [SD]nihon eiga senmon (544p) | epg.pw | <https://epg.pw/stream/cce64c98b37b51dec44420bb52e34d5582df282b4bfb0aa79ebc669140bc4c00.m3u8> |
 | 1267 | [VGA]ninh bình | epg.pw | <https://epg.pw/stream/c49d1226fb42900865711745d8176cb3ff4c1b2ddbd6dd4748348a7c99f6ffc7.m3u8> |
 | 1268 | [SD]nitro | epg.pw | <https://epg.pw/stream/ebbebeb015c11bf6e169094814a3feeedc8b65f7fe2d197ae849df3cba981ca8.m3u8> |
@@ -2417,4 +2417,4 @@
 | 2411 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2412 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Mon Mar 25 2024 22:16:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 26 2024 01:10:11 GMT+0000 (Coordinated Universal Time)**
