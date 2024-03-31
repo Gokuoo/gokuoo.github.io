@@ -702,7 +702,7 @@ https://epg.pw/stream/51374f9efdf28566886b4c59d88b64c44be4726f0720d7855818ac9be1
 #EXTINF:-1 tvg-name="MTV ROCKS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519122122986194_33.png" group-title="Music",[SD]MTV ROCKS
 https://epg.pw/stream/8e01ee27da9cb60871dce8c1d8817d7ae5441e843b8ff3b6e850340b50291cfa.ctv
 #EXTINF:-1 tvg-name="MTVHITS" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128114935333600_98.jpg" group-title="Music",[SD]MTVHITS
-https://epg.pw/stream/2fd130d7c78e3519c6c35578680ebe9bf59b48e1b5657b197b7b3e6cac84984a.ctv
+https://epg.pw/stream/cb12576c7bdaee92b6a90aa63d88a9d5ed27bae886b38ae70c9ee3bf5bec2f0e.ctv
 #EXTINF:-1 tvg-name="Maah TV" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085339314482_56.png" group-title="News",[HD]maah tv (720p) [not 24/7]
 https://epg.pw/stream/3273960b15099be5955e890882159474dfa402ed1782314e52d0bf7784597b2a.m3u8
 #EXTINF:-1 tvg-name="Magazine" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701230116306043_67.jpg" group-title="Entertainment",[BD]ciudad magazine
@@ -2309,6 +2309,8 @@ https://epg.pw/stream/70810c97fc01105011b84d7ec4eed5860066f89d8245a07a74d772acaa
 https://epg.pw/stream/3cdfea512abf243a4019c56d43ae2f36d0991432efd23f3fbd8ddbaa1b3ac401.m3u8
 #EXTINF:-1 tvg-name="mekameleen tv (1080p)" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174703714115_78.png" group-title="Generic",[BD]mekameleen tv (1080p)
 https://epg.pw/stream/5e28d2bd333bffd12a7115f8bf127f19481ef5cc20212336d797e699765e0314.m3u8
+#EXTINF:-1 tvg-name="mesat" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191717189318_10.png" group-title="Generic",[HD]mesat
+https://epg.pw/stream/62d6cfbf2484353f88bcf2e76e1cdae96e10912b97e6719273303906f5b9dbf5.m3u8
 #EXTINF:-1 tvg-name="metro tv" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/cca77230e396b443174a014efe4acb6f.jpg" group-title="Other",[HD]metro tv
 https://epg.pw/stream/eb73685472a0d3a27f152067881b763bfdfeb7a0ef855d06eff67346ee2dcca5.m3u8
 #EXTINF:-1 tvg-name="mir" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523214433156406_46.jpg" group-title="Other",[BD]mir
