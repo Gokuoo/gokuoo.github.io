@@ -888,7 +888,7 @@
 | 882 | [SD]discovery science | epg.pw | <https://epg.pw/stream/fd522630534abb24de51ba1b240e0b9ad5da0e399819ae9438141bc327368f67.m3u8> |
 | 883 | [SD]discovery turbo | epg.pw | <https://epg.pw/stream/8db9b54b28e6ea18ead4792495b8336767de5c047175a9b6d92b7ee4f27be977.m3u8> |
 | 884 | [SD]disney channel japan | epg.pw | <https://epg.pw/stream/5e74127e6d1dcd1b222f563e0cddef9904dccd96dfe75c1d809b64f19c5cf79d.m3u8> |
-| 885 | [HD]disney junior japan | epg.pw | <https://epg.pw/stream/3e97ae63349d3d7fff1e9142e46f7cfaea7dfca105d975fd2d9c51b4080b323b.m3u8> |
+| 885 | [HD]disney junior | epg.pw | <https://epg.pw/stream/286c4440ba7949441700e218a7f0cb6f492ae26a7fb9f85269da6cb1e8656d7c.m3u8> |
 | 886 | [BD]disney xd | epg.pw | <https://epg.pw/stream/338703bb0feac55d53a1c44cebb9949c3b5fb50a5ec5592deaca8c47517eefab.ctv> |
 | 887 | [BD]disney xd (east) us | epg.pw | <https://epg.pw/stream/e97f279b57a6f9ce2bbea0e15cace5885d0ed962391a4603e9e838c2bf4b3a61.m3u8> |
 | 888 | [HD]diva | epg.pw | <https://epg.pw/stream/c8e423ede0bc72cac0624b86b4e322679257cb9846e198aeb71e2643044ea519.m3u8> |
@@ -2352,4 +2352,4 @@
 | 2346 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2347 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Tue Apr 02 2024 08:20:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 02 2024 10:18:34 GMT+0000 (Coordinated Universal Time)**
