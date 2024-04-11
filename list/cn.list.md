@@ -144,8 +144,8 @@
 | 138 | [SD]大连生活 | epg.pw | <https://epg.pw/stream/4de56f91d6ac6bb347d1e5f39c827d4f7794b22dcbaa29aab748c1cb0f3a1ca1.ctv> |
 | 139 | [BD]天津卫视 | epg.pw | <https://epg.pw/stream/344ebea3be1190a8d1d792350cc6b3b9c136cee74ecc54b26751265784abc97f.m3u8> |
 | 140 | [VGA]太原影视 | epg.pw | <https://epg.pw/stream/91b6fbb646a23956a4fff96b3c516861919dc63fd59ab71b7657c46f9fc6fdd8.ctv> |
-| 141 | [VGA]太原文体 | epg.pw | <https://epg.pw/stream/c4778ba5faac5ef3c472183dfb03c67bc6643caab6e72d7df653802a917960f8.ctv> |
-| 142 | [VGA]太原新闻综合 | epg.pw | <https://epg.pw/stream/6b653e1856fd229daff2949116fef14416db534e55f710654e305a933291269f.ctv> |
+| 141 | [BD]太原文体 | epg.pw | <https://epg.pw/stream/c4778ba5faac5ef3c472183dfb03c67bc6643caab6e72d7df653802a917960f8.ctv> |
+| 142 | [BD]太原新闻综合 | epg.pw | <https://epg.pw/stream/6b653e1856fd229daff2949116fef14416db534e55f710654e305a933291269f.ctv> |
 | 143 | [VGA]如东新闻综合 | epg.pw | <https://epg.pw/stream/5e29e3486ba8cb09c6b25d831c6d47c3e7b0b9eeee4d70cb7d017dc216cb8f43.m3u8> |
 | 144 | [VGA]孝感公共频道 | epg.pw | <https://epg.pw/stream/0a0699b4d52d9c944c8e9bb7ec09b97d351e5d2be8fbae6c4a2843ccb7d34f9c.m3u8> |
 | 145 | [HD]安多卫视 | epg.pw | <https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8> |
@@ -205,7 +205,7 @@
 | 199 | [HD]开化新闻综合 | epg.pw | <https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8> |
 | 200 | [SD]弈坛春秋 | epg.pw | <https://epg.pw/stream/8ffdb059efaee14251c61b3bfe2b47b3a6867438be2763f6b293c8650d15fa24.m3u8> |
 | 201 | [BD]德阳新闻综合 | epg.pw | <https://epg.pw/stream/9a0ac741c616714bd84f497d566c39f4ea76e9b1dbb23aa046eb25b8f43c556d.m3u8> |
-| 202 | [BD]快乐垂钓 | epg.pw | <https://epg.pw/stream/2dafe6b6b3d64a454f4ce429068cf35e8057c44bad389d7a2b52931b6e740c8e.ctv> |
+| 202 | [BD]快乐垂钓 | epg.pw | <https://epg.pw/stream/59d25314967b9a139debdde5dc70f53598210564d50a0a89bafcc44bb8f905bc.ctv> |
 | 203 | [SD]承德新闻综合 | epg.pw | <https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8> |
 | 204 | [BD]收藏天下 | epg.pw | <https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv> |
 | 205 | [BD]文物宝库 | epg.pw | <https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8> |
@@ -226,7 +226,7 @@
 | 220 | [BD]东南卫视[ipv6] | epg.pw | <https://epg.pw/stream/aba8603324d1cea99c18553c3a7d4da469e94ce7741fb9db7efb6dfaf05b116e.m3u8> |
 | 221 | [BD]东方卫视 | epg.pw | <https://epg.pw/stream/9e1e70e2658595a0ffea37f1243a80e16b18ab7ae87c1931474e6f79828f05cc.m3u8> |
 | 222 | [BD]东方财经 | epg.pw | <https://epg.pw/stream/c43fa000db9ac14b27b6b87db4e7fbbef1b9dbc8460ad7ae8c51e1e56351b931.ctv> |
-| 223 | [BD]东方购物 | epg.pw | <https://epg.pw/stream/87894784168d47a0e2e904d567881c295c8ef55b30151cc99f5475b2bd96856c.ctv> |
+| 223 | [SD]东方购物 | epg.pw | <https://epg.pw/stream/1912d178951adcda625bce492725fc40027f2b2ea39431d70f98181fafb9636c.m3u8> |
 | 224 | [BD]林州新闻综合频道 | epg.pw | <https://epg.pw/stream/31b2d9f1b93dfdbaf9e39b484f857ee2165f4393312a24eb40adf083e1500646.m3u8> |
 | 225 | [SD]林正英 | epg.pw | <https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv> |
 | 226 | [SD]枣庄公共 | epg.pw | <https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8> |
@@ -431,4 +431,4 @@
 | 425 | [BD]黑龙新闻法治[ipv6] | epg.pw | <https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8> |
 | 426 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Thu Apr 11 2024 04:19:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 06:21:55 GMT+0000 (Coordinated Universal Time)**
