@@ -351,7 +351,7 @@
 | 345 | [BD]city 41 | epg.pw | <https://epg.pw/stream/c06321b6d47963698254c295c3568a3d84dec6c25275ae71f4442cc056e9e2f2.m3u8> |
 | 346 | [HD]韩国sbs cjb | epg.pw | <https://epg.pw/stream/d8d984cfddc417f504b388a0c5ffbf0daaeb62fb79e51ef9d99ff2f175c67210.m3u8> |
 | 347 | [HD]classica | epg.pw | <https://epg.pw/stream/d53aa6c33b70d0bda35d0c369ce28be68d903b6a9a9bfe47831b84f703fb677b.m3u8> |
-| 348 | [BD]cmc tv | epg.pw | <https://epg.pw/stream/2e20476eaa0c50d9e8279aae3ca9c1aabb2c92e615d9c202fde3b7460326a4b4.m3u8> |
+| 348 | [BD]cmm tv | epg.pw | <https://epg.pw/stream/92391d2fcd7df4eabb82a19b4047c117c65d6360e0ef27ad66f35bb04ce84656.m3u8> |
 | 349 | [BD]cmc (california music channel) | epg.pw | <https://epg.pw/stream/97a5b3c2304d45a1caece561564be392a7e24e009294fb7cd3d8493923f3444f.m3u8> |
 | 350 | [BD]cnn brasil | epg.pw | <https://epg.pw/stream/5ac49700fe49f34435ac8e93f25ee9bc257e205e473ef6cf8e4499a734f88880.m3u8> |
 | 351 | [HD]CNA | epg.pw | <https://epg.pw/stream/16915b442b7966be83a6f2b2761cc873be07f60f8da37202fcdfa0ff4bd097d3.ctv> |
@@ -640,7 +640,7 @@
 | 634 | [SD]gulli | epg.pw | <https://epg.pw/stream/eb0577ecb3910f57041cdec0ab9e80eae6b56503b578899c44e3d5a82944bc0c.ctv> |
 | 635 | [BD]nh tv | epg.pw | <https://epg.pw/stream/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 636 | [HD]hadi tv 8 | epg.pw | <https://epg.pw/stream/45ae7d43536c326d5c8e33509646e83b9a75cf4b89709fa0a0e50725f039be82.m3u8> |
-| 637 | [HD]hbo | epg.pw | <https://epg.pw/stream/2d8c821a9e8108176cb77480b848b450f2b55bb5acbafb3497fc9c2157bac73f.m3u8> |
+| 637 | [SD]hbo | epg.pw | <https://epg.pw/stream/7e154d3ba0994a6d902f0a03ae0ac260fd826712e7b1b5077b3d086c8fc7cb8e.ctv> |
 | 638 | [HD]hbo 2 | epg.pw | <https://epg.pw/stream/a58fb939e95a931316e724be4d8412e1732a30b732530fbe22358af1be2555fa.ctv> |
 | 639 | [BD]HBO2HDUSA | epg.pw | <https://epg.pw/stream/a6128ed3acd08bc1a06e9b77a4799fc1cb09aafdba11f37204b019d1f0d593ae.ctv> |
 | 640 | [HD]HBO3 | epg.pw | <https://epg.pw/stream/f07b7587326069e778a7f9a92d910fec91177a85617f5d0c27c31620c5ba4831.ctv> |
@@ -680,7 +680,7 @@
 | 674 | [BD]hello tv | epg.pw | <https://epg.pw/stream/8cf0eb3506dab42c11fa7a4fff0c7b54db10aacf90c4dfb40010aee9f807446b.m3u8> |
 | 675 | [BD]home hiroshima news | epg.pw | <https://epg.pw/stream/505326b6e6c0ce15d505573e4a85e7662e0c851ba3f780d12f25ecc8a9df65ef.m3u8> |
 | 676 | [SD]viju history | epg.pw | <https://epg.pw/stream/cb9463e6c7dc492f937ca47bab8b681ddbeaa310cee1650b94e815683b000138.m3u8> |
-| 677 | [HD]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
+| 677 | [VGA]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
 | 678 | [VGA]history channel | epg.pw | <https://epg.pw/stream/dcda1c68bf96b22ee5e68b4b241d433b1fb1ad85931d6b4b35e5f59b93798033.ctv> |
 | 679 | [SD]MTV HITS | epg.pw | <https://epg.pw/stream/a0fca669f3809c995fb7879bb61629c5ab82b5048083e5872e1993e875f24830.ctv> |
 | 680 | [HD]hollywire (720p) | epg.pw | <https://epg.pw/stream/6a2a52e829be531eb5684018e2fa835461a26161fe4059732eebfaf0ba2a5dd7.m3u8> |
@@ -2089,4 +2089,4 @@
 | 2083 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2084 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri May 10 2024 18:22:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 10 2024 20:17:32 GMT+0000 (Coordinated Universal Time)**
