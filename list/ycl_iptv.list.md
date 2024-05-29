@@ -31,7 +31,7 @@
 | 25 | 世界地理 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2> |
 | 26 | 央视台球 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2> |
 | 27 | 央视高网 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2> |
-| 28 | CCTV 文化精品 | mail.petzhu.top:7000 | <http://mail.petzhu.top:7000/rtp/239.254.201.229:7260> |
+| 28 | 文化精品 | mail.petzhu.top:7000 | <http://mail.petzhu.top:7000/rtp/239.254.201.229:7260> |
 | 29 | 凤凰中文 | IPv4 直链 | <http://113.64.145.195:8081/hls/37/index.m3u8> |
 | 30 | 凤凰资讯 | IPv4 直链 | <http://113.64.145.195:8081/hls/36/index.m3u8> |
 | 31 | 凤凰香港 | IPv4 直链 | <http://113.64.145.195:8081/hls/38/index.m3u8> |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 180 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 
-Updated at **Wed May 29 2024 08:23:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 29 2024 10:20:24 GMT+0000 (Coordinated Universal Time)**
