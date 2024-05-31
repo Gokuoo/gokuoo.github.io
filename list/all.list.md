@@ -1939,4 +1939,4 @@
 | 1933 | [BD]국악방송 | stream.freetv.fun | <https://stream.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1934 | [BD]연합뉴스tv | stream.freetv.fun | <https://stream.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri May 31 2024 16:22:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 31 2024 18:23:25 GMT+0000 (Coordinated Universal Time)**
