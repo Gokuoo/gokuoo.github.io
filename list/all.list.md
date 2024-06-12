@@ -764,7 +764,7 @@
 | 758 | [HD]nbs | epg.pw | <https://epg.pw/stream/61e63468133e4aa6ab20d8cc7baf0821e9078367507ac80ff7b19a143d20e6a7.m3u8> |
 | 759 | [HD]nbt hd | epg.pw | <https://epg.pw/stream/79ff34a5373d37297052d94ac590c61cce292ede7133f9689c62ba18e79e5ddc.m3u8> |
 | 760 | [VGA]ndtv india | epg.pw | <https://epg.pw/stream/1d0f0769e2cf45dac79d9f957904e990f2100b25993efa727857bb27ab45198c.m3u8> |
-| 761 | [SD][印度]ndtv24x7(480p)[640*480] | epg.pw | <https://epg.pw/stream/33b69e232d80d6b07085c11d6dc66d6e98eb78cf3d5e00fa2e82ee833d55c77c.m3u8> |
+| 761 | [SD][印度]ndtv24x7(480p)[640*480] | epg.pw | <https://epg.pw/stream/aafb793e4b4687945b8b531b11618b47c2cdf9729a10deb466d6fc62fe6450c3.m3u8> |
 | 762 | [HD]net tv | epg.pw | <https://epg.pw/stream/711a811c7d6eb5177d2ba99a4fdc7bb06c0ed44e54c9b5ca632dd9877761e7bd.m3u8> |
 | 763 | [VGA]bek tv news (720p) | epg.pw | <https://epg.pw/stream/61cd47f92ed6ccb29da4a14f24e27865146eaffc1f1d92cf7174d1c9193849b1.m3u8> |
 | 764 | [BD]newtv中国功夫[ipv6] | epg.pw | <https://epg.pw/stream/b369393f24743f52a076fce406a3366109e03981cfb05aa3f1f32a2fd9f2acc2.m3u8> |
@@ -1865,4 +1865,4 @@
 | 1859 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1860 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Jun 12 2024 20:19:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 12 2024 22:17:28 GMT+0000 (Coordinated Universal Time)**

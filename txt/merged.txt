@@ -1394,7 +1394,7 @@ News,#genre#
 [BD]nbc_news_now,https://epg.pw/stream/0627b3a4b3d3b23be2a5bc24d486a4f93d9feacb3311f1d186bb6fc6d171f810.m3u8
 [HD]nrb_tv,https://epg.pw/stream/b3e08a15407df010d7963b6e80fbdfa79dd09b31843694cd0583b4577714107c.m3u8
 [HD]nbs,https://epg.pw/stream/61e63468133e4aa6ab20d8cc7baf0821e9078367507ac80ff7b19a143d20e6a7.m3u8
-[SD][印度]ndtv24x7(480p)[640*480],https://epg.pw/stream/33b69e232d80d6b07085c11d6dc66d6e98eb78cf3d5e00fa2e82ee833d55c77c.m3u8
+[SD][印度]ndtv24x7(480p)[640*480],https://epg.pw/stream/aafb793e4b4687945b8b531b11618b47c2cdf9729a10deb466d6fc62fe6450c3.m3u8
 [SD]nhk,https://epg.pw/stream/931e39ae4265809e4f00768ec8a37c9823ab34744acd2a6baa7c7e167b986d1e.m3u8
 [HD]nhk_world,https://epg.pw/stream/5926a4f4e95bd8f6493733a71df806b8bc8522a262a099eb114354fa9b3cf95c.m3u8
 [BD]ntv_hd,https://epg.pw/stream/8354f5a97951cb9bed839d871118e54cae9cca7b88f7d464eac6403261a66b80.m3u8
