@@ -376,7 +376,6 @@
 
 综艺,#genre#
 [BD]cctv3,https://stream.freetv.fun/792979f74e697c8690b1c342bd7328698fa5876d61949ac70adf91f52d5931e6.m3u8
-[SD]cctv风云音乐,https://stream.freetv.fun/51ee72b743342939c8dea8db9f5c7ec4dd3cac1bb0cde70fdda1d89b9f9e8c7a.m3u8
 [BD]newtv超级综艺[ipv6],https://stream.freetv.fun/5a1929c7c8bb87bcbedd15ec273a380741da43adc68122c1a39bf5ef9fae3a88.m3u8
 [BD]newtv金牌综艺,https://stream.freetv.fun/0c5427449f440515b2a7e731de6e085732327c936621a08866e92b6651a38ff9.m3u8
 [BD]内蒙古文体娱乐,https://stream.freetv.fun/bf1fdd3406abbd3aa4c357ec7bce781f0a1c61e44bc24497e9b4588c6759eb72.m3u8
