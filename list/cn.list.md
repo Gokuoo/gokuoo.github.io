@@ -288,11 +288,11 @@
 | 282 | [BD]广东珠江 | stream.freetv.fun | <https://stream.freetv.fun/3e6fc471258d87a17ee1526507579feb98631b7da463f165b74804463a8da980.ctv> |
 | 283 | [SD]广东移动频道 | stream.freetv.fun | <https://stream.freetv.fun/b25503a349dfb3197c78e51cdf99ec67cd8c95c61eb2b2f2725849027de26558.m3u8> |
 | 284 | [SD]广东经济科教 | stream.freetv.fun | <https://stream.freetv.fun/2623d952147c792681ad5fe97ea7b7e4b883687a6ee2f3343560331009f7d534.m3u8> |
-| 285 | [BD]广东综艺 | stream.freetv.fun | <https://stream.freetv.fun/b7b7c2285fd72753f4b56e81782a342958f2d7183a2d541f9c308705282d72fb.ctv> |
+| 285 | [SD]广东综艺 | stream.freetv.fun | <https://stream.freetv.fun/b5ae84ba5527e0074d6614c199a38821c09e9ee4d41bdcadb033d40ea3b23419.m3u8> |
 | 286 | [BD]广东综艺-4k3 | stream.freetv.fun | <https://stream.freetv.fun/d6b92296d790821b9dc43fe68608ae6a50382926bb7bd853eea5df6c92e8fe97.ctv> |
 | 287 | [SD]广东卫视 | stream.freetv.fun | <https://stream.freetv.fun/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8> |
 | 288 | [SD]广东体育 | stream.freetv.fun | <https://stream.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8> |
-| 289 | [SD]广东体育 | stream.freetv.fun | <https://stream.freetv.fun/3bd56485c5f0d9c62b5c864695794e1ef946b46de7c1468e56ac2d4a12e1970d.m3u8> |
+| 289 | [BD]广东体育 | stream.freetv.fun | <https://stream.freetv.fun/8022d2ff0910ab31c8d38a5eb60e180390aa69b5388307df86e49924de8b09f5.m3u8> |
 | 290 | [BD]广西公共 | stream.freetv.fun | <https://stream.freetv.fun/86b6bc178d519c5b90e28095fe2ea15fdcf9f5527f9ed41fb73b208c5c6d9084.m3u8> |
 | 291 | [BD]广西国际 | stream.freetv.fun | <https://stream.freetv.fun/c181bb6ea3ef207f9d92be7a0a520721e3c10ed8db0ed19d4c07c3988a7f4db5.m3u8> |
 | 292 | [BD]广西影视 | stream.freetv.fun | <https://stream.freetv.fun/397ad4626ff6079e13990bc6474d9a855c149a7fdf3c827d83bd1277547dc025.m3u8> |
@@ -675,4 +675,4 @@
 | 669 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 670 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Jun 23 2024 20:18:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 23 2024 22:16:14 GMT+0000 (Coordinated Universal Time)**
