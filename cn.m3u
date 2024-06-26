@@ -977,12 +977,16 @@ https://stream.freetv.fun/725683c786d2c84896b65fbc1cb748feb5bd1443e27e984b37e642
 https://stream.freetv.fun/98b21718745ef4f6ed287544482e5253dd1abfd2e165f2b1869c749f1d09bcad.m3u8
 #EXTINF:-1 tvg-name="济南教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/03/13/large/20230313162238707551_69.jpeg" group-title="其它",[BD]济南教育
 https://stream.freetv.fun/70f32dea7dd37132bf92289000d33cce1d483e5a9caa8daceaa79ffb63b5ddea.m3u8
+#EXTINF:-1 tvg-name="济南新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313192103908315_96.png" group-title="新闻",[SD]济南新闻
+https://stream.freetv.fun/84bdcd41ed65e6b4987ff3a4b89e60628b74b0d280009331d32594842402897d.ctv
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526123341594106_96.jpg" group-title="新闻",[BD]济南新闻综合
 rtmp://tv.qntv.net/channellive/ch1?zguizd
 #EXTINF:-1 tvg-name="济南生活" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526123749179317_73.jpg" group-title="综合",[SD]济南生活
 https://stream.freetv.fun/5960040f8b1a888e9975d9f823dc6e2d50e9fe8b65b777e6fa57c173fba97225.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526142309160875_38.jpg" group-title="综合",[SD]济南都市
 https://stream.freetv.fun/8658e83f43bb79cceb34aa661928b169ecc09a6ae9a9cb53a836ecb6f3674bd4.m3u8
+#EXTINF:-1 tvg-name="济南鲁中" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526213602598805_41.jpg" group-title="综合",[VGA]济南鲁中
+https://stream.freetv.fun/c567e55e75a0773f9000559bf88a2d33979dae31815aa29c34d83b5083c7e971.ctv
 #EXTINF:-1 tvg-name="济源电视台" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_11.jpg" group-title="其它",[BD]济源电视台一套
 https://stream.freetv.fun/552919abf6f1fc518430e8191c2a455f371232b0b73cbbae095bd7356780d176.m3u8
 #EXTINF:-1 tvg-name="滨海影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/04/04/large/20230404013959854549_21.jpeg" group-title="电影",[BD]滨海影视
