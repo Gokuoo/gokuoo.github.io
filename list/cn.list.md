@@ -564,7 +564,7 @@
 | 558 | [VGA]自贡公共 | stream.freetv.fun | <https://stream.freetv.fun/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv> |
 | 559 | [VGA]自贡综合 | stream.freetv.fun | <https://stream.freetv.fun/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv> |
 | 560 | [HD]萧山新闻综合 | stream.freetv.fun | <https://stream.freetv.fun/51e0a1fe5c006c955e68548c9b2a13ce3d35adb30579eaf00b11a9ec52ee9fe0.m3u8> |
-| 561 | [BD]芝麻街 | stream.freetv.fun | <https://stream.freetv.fun/217382ea55a2c8fe823ae52e101e8ffa120aa877e600e5b3fa6dcf67be6d3698.ctv> |
+| 561 | [HD]芝麻街 | stream.freetv.fun | <https://stream.freetv.fun/217382ea55a2c8fe823ae52e101e8ffa120aa877e600e5b3fa6dcf67be6d3698.ctv> |
 | 562 | [BD]茶频道[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/cb7be750ee5b6b51cff299279e49fef2dc33ae635fbb099238154089421be599.m3u8> |
 | 563 | [HD]荆州垄上 | stream.freetv.fun | <https://stream.freetv.fun/3aab400214d70d9b22489ec74f4ffe5e67271689579e0de9f27dd245599d1393.m3u8> |
 | 564 | [HD]荆州新闻 | stream.freetv.fun | <https://stream.freetv.fun/08eec89b27feaf59f71ad04d237ef33a9d4aa16af6280c537b6768b9007163e3.m3u8> |
@@ -673,4 +673,4 @@
 | 667 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 668 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Jun 28 2024 02:35:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 28 2024 04:21:30 GMT+0000 (Coordinated Universal Time)**
