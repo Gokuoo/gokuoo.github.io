@@ -419,7 +419,7 @@
 | 413 | [HD]clubbing tv | stream1.freetv.fun | <https://stream1.freetv.fun/5918a8ac49bbc5a8dd18a587f178325c8dfc02d4607d62479c7fb81e59d5e888.m3u8> |
 | 414 | [HD]kli comedy hd | stream1.freetv.fun | <https://stream1.freetv.fun/fb9c9853e1c20ed7dcd8e822c69c50f7e7ba1d3ddb2d5d294f5910685032a037.m3u8> |
 | 415 | [BD]comedycentral | stream1.freetv.fun | <https://stream1.freetv.fun/ebf7b6aec44ef9b067d56c5d68f21c3bf29172f87ce19c579e945e5accc9cdb7.m3u8> |
-| 416 | [SD]court tv | stream1.freetv.fun | <https://stream1.freetv.fun/b274e73a9d754f4461dc018a8da60d1e241218ab6afbd22cb917926f0a699f56.m3u8> |
+| 416 | [BD]out tv | stream1.freetv.fun | <https://stream1.freetv.fun/80c043a5564a9018e26908d959b922d13d9ecfd635ae775f0b88c9d4ac9e0027.m3u8> |
 | 417 | [HD]the craft store (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/4eaff36633aaea81d4ea62e202f4111a9d269ba2aa9cd3b6533e3ad2be86a33a.m3u8> |
 | 418 | [BD]crime investigation | stream1.freetv.fun | <https://stream1.freetv.fun/02f79723d799c3e1901040a162436d15024748727828330276c01da6df5e6b89.m3u8> |
 | 419 | [SD]cali tv | stream1.freetv.fun | <https://stream1.freetv.fun/40015e65dc9b3ce5c1e6f5f552ec83daee96d05699a94e007453f6911f3ed059.m3u8> |
@@ -498,7 +498,7 @@
 | 492 | [VGA]韩·ebs2 | stream1.freetv.fun | <https://stream1.freetv.fun/aeb9363eec26ccf82b55658cdd951b91fee0d38bfe9de669f5608e34dd1e01ee.m3u8> |
 | 493 | [VGA]ert 1 | stream1.freetv.fun | <https://stream1.freetv.fun/b684c237303969a1dc33f59bb37b20ffbc190093d318b415cd309a3a6fc70463.m3u8> |
 | 494 | [HD]eska tv | stream1.freetv.fun | <https://stream1.freetv.fun/5bb8e56c5d246aafe8f979ef229250c578cf09a37a73d2bc9fda00ec22286237.m3u8> |
-| 495 | [HD]espn brasil 2 | stream1.freetv.fun | <https://stream1.freetv.fun/061f3e34ba5e80ee6d1ff538e495724cfbe5a3daff59c289972f8186855ec50f.ctv> |
+| 495 | [HD]ช่อง espn 2 | stream1.freetv.fun | <https://stream1.freetv.fun/8c736bb776625192f624cf402c8870d222ab3067162c0c44c8ac5a3f416a381d.m3u8> |
 | 496 | [HD]espn brasil 3 | stream1.freetv.fun | <https://stream1.freetv.fun/e22b71b51168ebb290c5aea17df3423717351622cbeb3a8d884921089e1493c5.m3u8> |
 | 497 | [BD]qwest tv | stream1.freetv.fun | <https://stream1.freetv.fun/9a73117bd031f37453f3f6040d12176f8efc1c4c50c3925a9f1ba3abb57c9e72.m3u8> |
 | 498 | [HD]medstv | stream1.freetv.fun | <https://stream1.freetv.fun/ef01ca57bce316a4d4b2d5015648519371478245a0b10965874727a67bba27cd.m3u8> |
@@ -2125,4 +2125,4 @@
 | 2119 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2120 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Dec 18 2024 22:20:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 19 2024 01:45:55 GMT+0000 (Coordinated Universal Time)**
