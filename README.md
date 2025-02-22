@@ -63,9 +63,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | update failed |
 | 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Sat Feb 22 2025 18:26:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 22 2025 20:20:44 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
