@@ -87,4 +87,4 @@
 | 81 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 82 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Tue Dec 02 2025 16:35:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 02 2025 18:39:13 GMT+0000 (Coordinated Universal Time)**
