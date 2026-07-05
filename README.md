@@ -42,8 +42,8 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 11052 | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 142 | - |
 | iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 370 | - |
-| iptv.org stream China 112114 | [o_s_cn_112114.m3u](/o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](/list/o_s_cn_112114.list) | 16 | - |
-| iptv.org stream China CCTV | [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u) <br> [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt) | [List for iptv.org stream China CCTV](/list/o_s_cn_cctv.list) | 15 | - |
+| iptv.org stream China 112114 | [o_s_cn_112114.m3u](/o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](/list/o_s_cn_112114.list) | 16 | ✅ |
+| iptv.org stream China CCTV | [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u) <br> [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt) | [List for iptv.org stream China CCTV](/list/o_s_cn_cctv.list) | 15 | ✅ |
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u) <br> [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt) | [List for iptv.org stream China CGTN](/list/o_s_cn_cgtn.list) | 6 | - |
 | epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 207 | - |
 | epg.pw China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for epg.pw China National](/list/cn_n.list) | 8 | - |
@@ -65,7 +65,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Sun Jul 05 2026 13:50:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 05 2026 15:17:03 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
