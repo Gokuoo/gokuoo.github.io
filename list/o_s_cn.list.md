@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -369,4 +369,4 @@
 | 363 | Discovering China (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8> |
 | 364 | China Travel (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8> |
 
-Updated at **Thu Aug 13 2026 13:21:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 15:01:49 GMT+0000 (Coordinated Universal Time)**
