@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -342,4 +342,4 @@
 | 336 | Chuxiong News Channel [Not 24/7] | hwapi.yntv.net | <http://hwapi.yntv.net/ew265l/848y54.m3u8> |
 | 337 | Chaozhou Public Channel | IPv4 直链 | <http://113.64.146.48:1688/hls/4/index.m3u8> |
 
-Updated at **Fri Oct 02 2026 04:59:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 12:12:27 GMT+0000 (Coordinated Universal Time)**
