@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -344,4 +344,4 @@
 | 338 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
 | 339 | Dongguan Comprehensive News Channel | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8> |
 
-Updated at **Sun Oct 11 2026 12:26:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 11 2026 18:43:04 GMT+0000 (Coordinated Universal Time)**
