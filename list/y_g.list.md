@@ -1,4 +1,4 @@
-# List for **YanG-1989 Gather**(Rollback)
+# List for **YanG-1989 Gather**
 
 > M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
 
@@ -128,4 +128,4 @@
 | 122 | 猫和老鼠「动漫」 | cdn.ttvb.eu.org | <https://cdn.ttvb.eu.org/huya/11352879> |
 | 123 | 中华小当家「动漫」 | cdn.ttvb.eu.org | <https://cdn.ttvb.eu.org/huya/11342413> |
 
-Updated at **Tue Nov 24 2026 17:17:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 25 2026 02:04:52 GMT+0000 (Coordinated Universal Time)**
